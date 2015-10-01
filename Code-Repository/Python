@@ -1,0 +1,43 @@
+1.	What is a code repository?
+-	Code repository is where you can store all the source code, related documents, source code version control and local or online repositories.
+2.	Why is it so advantageous to use code repositories?
+-	It is good to use code repository because you can store and save all the repositories you did and you can use it as a backup in case you lost it. 
+3.	Describe the different “layers” of Software that exist on a typical computer and explain why there are different layers of software.
+-	There are two different kinds of layers in a software. The first one is the System software where it compose of Operating Systems (Windows, Mac OS X and Linux), utility programs and Software development Tools.
+-	Application software is another one where it makes the computer useful for everyday tasks. Examples of an applications software are Microsoft Word and Adobe Photoshop.
+4.	Describe what an algorithm is and explain why it is a useful “tool” to translate from a human level problem (we can think of) to a computer program.
+-	Algorithm is a set of instructions or a set of rules that should be followed to be able to finish the task. It is very useful to use algorithm so that we can do the job easily by following the instructions for example, the steps of how to program a computer.
+
+
+5.	Write an algorithm that describes how to make scrambled eggs, try to use control words, like IF, WHEN, UNTIL, WHILE, WAIT, AND, OR.
+-	You need to have an egg
+-	Put the pan in the stove and put some oil and wait UNTIL it becomes hot
+-	WHILE waiting for the pan, crack the egg and stir it up
+-	IF the egg is still thick, keep stirring it until it gets thin
+-	Then put the egg into the pan AND WAIT it to cook FOR 2 minutes
+-	After you done cooking, get a plate and put the egg in there and it is ready to eat.
+6.	Is Idle (the Python language shell) an Interpreter or an Compiler or both? Explain your answer.
+-	Idle (the Python language shell) is an interpreter because it is a program that can translates and also can executes the instructions in a high level program. Also it is only allowed to have a one command in the shell so that makes it as an interpreter. 
+-	A compiler is a CPU where it can only understand the machine language instructions.
+
+Practical
+1.	 Write a command in the idle shell that says “Hello World”
+ 
+-	Basically what I have done in here is I typed print then inserted an open bracket and then put the quotation mark then type “Hello World” then close bracket. After that, I pressed enter then you will see the “Hello World” at the bottom highlighted in colour blue.
+2.	Write a program that produces the following output:
+Hello World 
+I am in my ISD class right now
+ 
+                For this one, What I have done is in the original file, I went on to click file and then click new. In there, there will be a new blank page of Python and in there, basically I just typed like what I did in the first one then click enter and then typed like the first one but the only difference is this time, I typed “I am in my ISD class right now”.  After that, I went to file then clicked save then I chose a file folder then saved it. After you are done saving it, I ran it by clicking the run button on the menu. bar then click run module. Once you are done doing that, it will appear on the old page.
+3.	Write a program that asks the user for his/her name and produces an output like:
+Hi there, what is your name
+>user input to be read<
+(Users name)
+How are you?
+
+ 
+ 
+	For question number three, what I did was typed the variable1=input(“Hi there, what is your name?”) and then basically, the input will read it and then I typed the user’s name then the rest will appear. I also run the module of it.
+4.	 Write a program that asks for two numbers (Python has all the basic mathematical functions in place, like +,-etc.), adds them up and displays the result. 
+ 
+ This is what I’ve done in question number 4. Basically, I followed the coding to make an addition using the python language by using the “int”, “var2” and “var3” and also “print”. 
