@@ -1,0 +1,10 @@
+richter = float(input("Enter Richter Scale:"))
+if richter >= 8.0:
+        print("Most Structures Fall")
+elif richter >= 7.0:
+        print("Many Buildings Destroyed")
+elif richter >=6.0:
+        print("Many Buildings considereably damaged, some collapse")
+elif richter >=4.5:
+         print("Damage to poorly contructed buildings")
+else: print("No Destruction of Buildings") 
